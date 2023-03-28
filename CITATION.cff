@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+authors:
+- family-names: "Kuo"
+  given-names: "Hsiao Chen Dina"
+title: "Methyl-seq-Analysis-Workflow"
+version: 1.0.0
+url: "https://github.com/dina567/Methyl-seq-Analysis-Workflow_Skin-Project"
